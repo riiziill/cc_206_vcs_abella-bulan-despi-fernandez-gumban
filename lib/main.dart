@@ -1,5 +1,6 @@
 //1. Rhesty John J. Fernandez : vincit omnia veritas
 //2. Louise Kylle G. Bulan: Ad Astra Abyssosque
+//3. Rhazel May B. Despi: Fake it till you make it
 
 import 'package:flutter/material.dart';
 
